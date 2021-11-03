@@ -2695,7 +2695,7 @@ h6 {
     top: -5px; }
   .tabs_inner .tab-content .tab-pane .list li {
     margin-bottom: 60px;
-    position: relative; }
+    position: relative;}
     .tabs_inner .tab-content .tab-pane .list li span {
       height: 15px;
       width: 15px;
@@ -2719,7 +2719,7 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li:last-child {
       margin-bottom: 0px; }
     .tabs_inner .tab-content .tab-pane .list li .media .d-flex {
-      padding-right: 100px; }
+      padding-right: 150px; }
       .tabs_inner .tab-content .tab-pane .list li .media .d-flex p {
         color: rgba(255, 255, 255, 0.75);
         margin-bottom: 0px;
